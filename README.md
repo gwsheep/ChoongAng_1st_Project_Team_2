@@ -23,7 +23,7 @@ B팀 : 전재권, 백경탁, 정회창, 김현민, 조중현, 홍진호, 김재�
 <img src="https://img.shields.io/badge/JSP Servlet-3776AB?style=flat"/><br/>
 
 **Library**<br/>
-<img src="https://img.shields.io/badge/JDBC-3776AB?style=flat"/><br/>
+<img src="https://img.shields.io/badge/JDBC-3776AB?style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Ajax-3776AB?style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/><br/>
